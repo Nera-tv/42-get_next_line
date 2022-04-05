@@ -17,12 +17,6 @@
 
 In this project we must create a function that returns one line from the specified fd every time it is called, followed by a newline if the line has one. This project introduces the idea of static variables, which will be very useful for future projects.
 
-### Table of Contents
-
-* [Usage](#usage)
-* [Goals](#goals)
-* [Skills](3skills)
-
 ### Capabilities
 
 The function to implement is called  `get_next_line`, and will have the following prototype:
